@@ -1,0 +1,151 @@
+.card-image {
+  width: 100%;
+}
+
+
+.card {
+  border-radius: 5px 5px 0 0;
+}
+
+
+.pagenation-container {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  position: sticky !important;
+  z-index: 99;
+  background-color: #fff;
+  top:0
+}
+.card .card-title {
+  margin-left: auto;
+  text-align: right;
+  padding: 0;
+  font-size: 16px;
+}
+.card-c-title {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 20px;
+  font-weight: 400;
+  text-overflow: ellipsis;
+}
+.chip {
+  border-radius: 0 !important;
+  user-select: none;
+}
+
+.chip:hover {
+  cursor: pointer;
+  animation: tada 1s ease;
+}
+
+.chip-color {
+  background-color: rgb(231, 238, 232);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  font-weight: bolder;
+}
+
+.perfume-card-badge {
+  border-radius: 6px;
+  line-height: 30px;
+  color: #9f9f9f !important;
+}
+
+.rate-box {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  font-size: 16px;
+  line-height: 30px;
+  border-radius: 50px;
+  font-weight: 500;
+}
+.rate-box-star {
+  font-size: 20px;
+  margin-right: 0.2em !important;
+  color: rgb(241, 220, 161) !important;
+}
+.gender-indicator {
+  color: black;
+  font-size: 8px;
+  padding: 0 !important;
+}
+
+
+.card .card-content {
+  padding: 0 !important;
+}
+
+.title-gender-tags {
+  padding: 3%;
+  margin: 0;
+  background-color: #fff;
+}
+
+.threeone-grid {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  text-align: left;
+  padding: 3px 0;
+}
+
+.threeone-grid i {
+  color: skyblue;
+  cursor: pointer;
+  text-align: center;
+  transition: 1s;
+  text-shadow: 2px 1px 1px #e0e0e0;
+}
+
+.threeone-grid i:hover {
+  color: orange;
+  text-align: center;
+  text-shadow: 2px 1px 1px #3f3f3f;
+}
+.card-reveal {
+  overflow: hidden;
+}
+.card-image > img {
+  height: 13vw !important;
+  width: 13vw !important;
+  margin: auto !important;
+  border-radius: 5px 5px 0 0 !important;
+}
+
+span.badge {
+  margin-left: 0;
+}
+
+
+.note-tags {
+  margin: 16px !important;
+}
+
+.gender-year {
+  padding-bottom: 4px;
+  margin-bottom: 0;
+}
+.similar-grid-row {
+  display:grid;
+  grid-template-columns: repeat(10, 1fr);
+  height: 0;
+  margin: auto;
+  overflow-y: hidden;
+  padding-top: 5px;
+  transition: 0.5s;
+}
+.card:hover .similar-grid-row {
+  height: auto;
+}
+.chip-color-0 {background-color: #6a5acd;color: white;}
+.chip-color-1 {background-color: #7d68ee;color: white;}
+.chip-color-2 {background-color: #9370db;color: white;}
+.chip-color-3 {background-color: #800080;color: white;}
+.chip-color-4 {background-color: #9400d3;color: white;}
+.chip-color-5 {background-color: #9932cc;color: white;}
+.chip-color-6 {background-color: #da70d6;color: white;}
+.chip-color-7 {background-color: #dda0dd;color: white;}
+.chip-color-8 {background-color: #ff1493;color: white;}
+.chip-color-9 {background-color: #c71585;color: white;}
