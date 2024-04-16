@@ -1,0 +1,159 @@
+[
+  {
+  "note": "muguet",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [1,2,3,4]
+}, 
+{
+  "note": "bergamot",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [1,2]
+}, {
+  "note": "rose",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [1, 2]
+}, {
+  "note": "jasmine",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [1, 2]
+}, {
+  "note": "orange flower",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [1, 2]
+}, {
+  "note": "cotton",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [2, 3]
+}, {
+  "note": "patchouli",
+  "category_idx": 1,
+  "category_name": "flowers",
+  "season": [3, 4]
+}, {
+  "note": "cedarwood",
+  "category_idx": 2,
+  "category_name": "wood",
+  "season": [3, 4]
+}, {
+  "note": "musk",
+  "category_idx": 4,
+  "category_name": "other",
+  "season": [3, 4]
+}, {
+  "note": "amber",
+  "category_idx": 4,
+  "category_name": "wood",
+  "season": [3, 4]
+}, {
+  "note": "tangerine",
+  "category_idx": 3,
+  "category_name": "fruit",
+  "season": [3, 4]
+}, {
+  "note": "bubble soap",
+  "category_idx": 4,
+  "category_name": "other",
+  "season": [1, 2]
+}, {
+  "note": "tea",
+  "category_idx": 4,
+  "category_name": "other",
+  "season": [3, 4]
+}, {
+  "note": "white flowers",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [1, 2]
+}, {
+  "note": "white iris",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [1, 2]
+}, {
+  "note": "cherry blossom pethals",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [1]
+}, {
+  "note": "vetiver",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [3, 4]
+}, {
+  "note": "sandal wood",
+  "category_idx": 2,
+  "category_name": "wood",
+  "season": [3, 4]
+}, {
+  "note": "vanilla",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [3, 4]
+}, {
+  "note": "grapefruit",
+  "category_idx": 2,
+  "category_name": "fruit",
+  "season": [1, 2]
+}, {
+  "note": "mandarine",
+  "category_idx": 2,
+  "category_name": "fruit",
+  "season": [3, 4]
+}, {
+  "note": "ginger",
+  "category_idx": 4,
+  "category_name": "other",
+  "season": [3, 4]
+}, {
+  "note": "neroli",
+  "category_idx": 2,
+  "category_name": "wood",
+  "season": [1, 2]
+}, {
+  "note": "red apple",
+  "category_idx": 3,
+  "category_name": "fruit",
+  "season": [3]
+}, {
+  "note": "eucalyptus",
+  "category_idx": 2,
+  "category_name": "wood",
+  "season": [3, 4]
+}, {
+  "note": "peony",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [1]
+}, {
+  "note": "pink rose",
+  "category_idx": 1,
+  "category_name": "flower",
+  "season": [1, 2]
+}, {
+  "note": "velvet",
+  "category_idx": 4,
+  "category_name": "other",
+  "season": [3, 4]
+}, {
+  "note": "cedar wood",
+  "category_idx": 2,
+  "category_name": "wood",
+  "season": [3, 4]
+}, {
+  "note": "leafy green",
+  "category_idx": 4,
+  "category_name": "other",
+  "season": [1, 2]
+}, {
+  "note": "woody",
+  "category_idx": 2,
+  "category_name": "wood",
+  "season": [3, 4]
+}
+]

@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "perfumes.category", "fields": {"name": "flowers"}}, {"pk": 2, "model": "perfumes.category", "fields": {"name": "wood"}}, {"pk": 3, "model": "perfumes.category", "fields": {"name": "fruit"}}, {"pk": 4, "model": "perfumes.category", "fields": {"name": "other"}}]

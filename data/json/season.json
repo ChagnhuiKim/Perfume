@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "perfumes.season", "fields": {"name": "spring", "kor_name": "\ubd04"}}, {"pk": 2, "model": "perfumes.season", "fields": {"name": "summer", "kor_name": "\uc5ec\ub984"}}, {"pk": 3, "model": "perfumes.season", "fields": {"name": "autumn", "kor_name": "\uac00\uc744"}}, {"pk": 4, "model": "perfumes.season", "fields": {"name": "winter", "kor_name": "\uaca8\uc6b8"}}]
