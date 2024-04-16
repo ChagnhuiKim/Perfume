@@ -1,0 +1,96 @@
+.famous-selection-box {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 2%;
+  grid-row-gap: 2%;
+  padding-top: 2%
+}
+
+.famous-selection-box > div {
+  cursor: pointer;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+}
+.famous-selection-box > div:hover {
+  box-shadow: 0 0 10px #e0e0e0;
+}
+
+.famous-selection-img {
+  margin: auto;
+  display: block;
+  height: 10vw;
+  width: 10vw
+}
+
+.famous-selection-perfume-name {
+  font-size: 20px;
+  text-align: center;
+}
+
+.famous-survey-tab {
+  background-color: white;
+}
+
+.carousel {
+  height: 550px !important;
+}
+
+.exp-survey-result {
+  display:grid;
+  animation: fadeInUp 1250ms ease;
+  width: 100vw;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  height: 100vh;
+  align-items: center;
+  padding: 40px;
+}
+.exp-survey-result > a > div {
+  display: block;
+  border-radius: 10px;
+  background-size: cover;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #e0e0e0;
+  padding: 15px;
+  cursor: pointer;
+  user-select: none;
+  width: 250px;
+  height: 250px !important;
+}
+
+.exp-survey-result > a > div:hover {
+  border: 2px solid #e0e0e0
+}
+
+.header-quotes {
+  margin-top: 120px;
+  text-align: center;
+  font-family: 'Cafe24Oneprettynight';
+  font-size: 32.96px;
+}
+
+.submit-exp-survey {
+  background-color: #fdf0f0;
+  color: #4f4f4f;
+  width: 12vw;
+  text-align: center;
+  font-family: 'Cafe24Oneprettynight';
+  height: 3vw;
+  border-radius: 20px;
+  font-size: 1.8vw;
+  display: block;
+  margin-left: auto;
+  box-shadow: 1px 1px 3px .5px #ee6e73;
+  margin-top: 2rem;
+}
+
+.submit-exp-survey:hover {
+  color: #ee6e73;
+  background-color: #fdf0f0;
+  box-shadow: 1px 1px 3px .5px #ee6e73;
+}
+
+.submit-exp-survey:focus {
+  background-color: #dda8aa;
+  color: white;
+}
